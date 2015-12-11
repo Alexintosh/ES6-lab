@@ -1,0 +1,30 @@
+{
+  "name": "es6-lab",
+  "version": "0.0.1",
+  "description": "Es6 playground",
+  "main": "dist/module.js",
+  "dependencies": {
+    "babel-preset-es2015": "^6.3.13"
+  },
+  "devDependencies": {
+    "babelify": "^6.1.0",
+    "grunt": "^0.4.5",
+    "grunt-browserify": "^3.8.0",
+    "grunt-contrib-connect": "^0.11.2",
+    "grunt-contrib-watch": "^0.6.1",
+    "load-grunt-tasks": "^3.3.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexintosh/ES6-lab.git"
+  },
+  "author": "Alessio Delmonti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alexintosh/ES6-lab/issues"
+  },
+  "homepage": "https://github.com/Alexintosh/ES6-lab#readme"
+}
