@@ -1,18 +1,9 @@
+import { letExample } from "./let_module"
 
-/**
- * Let
- * */
-/*
-let dog = "Puppy"
-
-while(true){
-  let dog = "Pupa"
-  console.log(dog)
-  break;
+letExample()
+function loadEx(){
+  clear()
 }
-
-console.log(dog)
-*/
 
 /**
  * Classes, super, static
